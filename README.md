@@ -1,2 +1,4 @@
 # Vendas-API
- API desenvolvida a partir do curso Spring Boot expert da Udemy
+ API desenvolvida durante o curso Spring Boot expert da Udemy
+
+ 
